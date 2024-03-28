@@ -16,7 +16,7 @@ spec:
         - name: s-app
           image: pfa123/pfa3.0:latest
           ports:
-            - containerPort: 3000
+            - containerPort: 3500
 
 ---
 apiVersion: v1
